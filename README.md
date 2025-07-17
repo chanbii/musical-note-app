@@ -43,4 +43,12 @@
 <br>
 
 ## 🛠️ 실행 방법
-Android Studio에서
+1. Android Studio에서 프로젝트를 엽니다.
+2. Gradle 동기화가 자동으로 완료될 때까지 기다립니다.
+3. 에뮬레이터 또는 USB로 연결된 실기기를 선택합니다.
+4. ▶️ 실행 버튼을 눌러 앱을 실행합니다.
+
+> ⚠️ 실행 오류가 발생할 경우:
+> - Build > Clean Project
+> - File > Invalidate Caches / Restart...
+> 를 시도해 보세요.
