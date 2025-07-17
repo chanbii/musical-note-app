@@ -1,4 +1,4 @@
-# 📱 musical-note-app (실습 프로젝트)
+# 📱 musical-review-app (실습 프로젝트)
 
 감상한 뮤지컬의 이름과 정보를 입력하면 화면에 표시하는 간단한 Android 앱입니다.
 2025년 1학기 Android studio 실습 과제로 제작했습니다.
