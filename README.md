@@ -15,26 +15,26 @@
 
 ## 🖼️ 예시 화면
 - 기본
-<img width="829" height="1252" alt="image" src="https://github.com/user-attachments/assets/63c9f693-31fd-4ce3-97c1-b8914f451847" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/63c9f693-31fd-4ce3-97c1-b8914f451847" />
+<br>
 - 평점순 정렬
-<img width="826" height="1253" alt="image" src="https://github.com/user-attachments/assets/6a92b287-3cf5-4875-8420-efebb9686014" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/6a92b287-3cf5-4875-8420-efebb9686014" />
+<br>
 - 제목 검색
-<img width="825" height="1257" alt="image" src="https://github.com/user-attachments/assets/3d09f273-154b-4267-90f4-ef9ac00f7f6d" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/3d09f273-154b-4267-90f4-ef9ac00f7f6d" />
+<br>
 - 메뉴
-<img width="832" height="1256" alt="image" src="https://github.com/user-attachments/assets/be444dbb-2d68-4f6d-9549-aa73577a99ac" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/be444dbb-2d68-4f6d-9549-aa73577a99ac" />
+<br>
 - 뮤지컬 추가
-<img width="836" height="1261" alt="image" src="https://github.com/user-attachments/assets/e3de3cb1-1b43-4412-9997-ce920f42f5ea" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/e3de3cb1-1b43-4412-9997-ce920f42f5ea" />
+<br>
 - 뮤지컬 수정
-<img width="825" height="1255" alt="image" src="https://github.com/user-attachments/assets/4d195b29-35dc-4d9b-b1f6-5ff4ad9c87b3" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/4d195b29-35dc-4d9b-b1f6-5ff4ad9c87b3" />
+<br>
 - 뮤지컬 삭제
-<img width="823" height="1257" alt="image" src="https://github.com/user-attachments/assets/479e0b90-4794-4061-a473-2152f36607e3" />
-
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/479e0b90-4794-4061-a473-2152f36607e3" />
+<br>
 
 ## 🛠️ 실행 방법
 Android Studio에서
