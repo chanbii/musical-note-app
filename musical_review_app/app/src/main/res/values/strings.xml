@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">뮤지컬 리뷰 앱</string>
+    <string-array name="grade_array">
+        <item>VIP석</item>
+        <item>R석</item>
+        <item>S석</item>
+        <item>A석</item>
+    </string-array>
+</resources>
